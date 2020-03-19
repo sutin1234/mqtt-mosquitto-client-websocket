@@ -1,0 +1,6 @@
+[submodule "www/hivemq-mqtt-web-client"]
+	path = www/hivemq-mqtt-web-client
+	url = https://github.com/hivemq/hivemq-mqtt-web-client.git
+[submodule "www/simple-mqtt-websocket-example"]
+	path = www/simple-mqtt-websocket-example
+	url = https://github.com/jpmens/simple-mqtt-websocket-example.git
